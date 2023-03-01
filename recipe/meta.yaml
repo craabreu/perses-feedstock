@@ -50,6 +50,7 @@ requirements:
     - openff-toolkit >=0.9.0,<0.11
     - click
     - arsenic
+    - cloudpathlib
     # - openeye-toolkits
 
 test:
